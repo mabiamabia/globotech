@@ -1,0 +1,17 @@
+devops
+containers
+virtual machine
+orquestradores:
+    docker swarm
+    kubernets
+
+automação
+    gitlab cl
+    ansible
+    jenkins
+    shell
+    python
+
+Provisionamento
+    ansibleterraform
+    cloud API's
