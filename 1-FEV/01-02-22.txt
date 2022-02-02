@@ -1,0 +1,8 @@
+vendor lock-in
+servless vs. services
+cloud
+
+desafios do devops: (em relação a cloud)
+    minimizar downtime
+    manter os dados seguros
+    monitorar custos

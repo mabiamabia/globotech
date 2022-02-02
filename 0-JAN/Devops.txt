@@ -1,6 +1,7 @@
 devops
 containers
 virtual machine
+
 orquestradores:
     docker swarm
     kubernets
@@ -13,5 +14,8 @@ automação
     python
 
 Provisionamento
-    ansibleterraform
+    ansible
+    terraform
     cloud API's
+    Vendor lock-in
+    
