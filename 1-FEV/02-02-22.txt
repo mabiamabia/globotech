@@ -1,0 +1,58 @@
+************-----REDES-----***************
+
+
+camadas osi
+firewall
+tcp/ip
+protocolos
+    protocolo tcp
+    CLIENTE X SERVER
+protocolo udp
+
+udp vs. tcp
+    pertencem a camada de transporte
+
+tcp:
+mais robusto
+mais seguros
+
+udp:
+não fornece confiabilidade pois não tem garantia que os 
+datagramas chegarão ao seu destino
+udp não estabele conexoes antes de enviar dados,
+apenas empacota os datagramas e os envia
+e também não fornece confirmação da entrega desses dados
+
+vantagem:
+existem algumas aplicações do udp como por exemplo:
+protocolo dns (sistema de resolução de nomes de dominio)
+
+exemplos: usado em jogos e lives e streaming
+
+desvantagem: podem ser perdidos
+
+
+Bom gente, eu e a minha equipe discutiu as questões e chegou a conclusão que
+o protocolo tcp ele é mais robusto e mais pesado, mas garante que os dados são entregues, 
+eles devem ser utilizados por exemplo no processo de download
+o udp não fornece ums confirmação de entrega desses dados, 
+ou seja não é certeza que os dados vão chegar,
+porém ele é um protocolo que viaja mais rapidos e ele pode ser utilizado por exemplo
+em jogos, lives e streaming, e como o pessoal ja falou ai, os protocolos podem ser utilizados
+ou evitados, dependendo da onde ele vai ser aplicado. 
+
+
+
+UDP em relação ao TCP é que ele é rápido, não causa sobrecarga e pode oferecer suporte à comunicação de um ponto a outro ponto e de um ponto a vários outros pontos. Já a principal desvantagem do UDP é que não existe comunicação entre o emissor e o receptor, ou seja, caso os pacotes não cheguem completos, eles não são enviados.
+TCP preza pela confiabilidade agregando 
+Acredito que a utilização de qual protocolo que devemos usar vai depender qual a finalidade do seu aplicativo. então não tem como definir qual deve ser evitado.
+depender*
+
+................................................
+ipv4
+
+como resolver o problema da falta de ips
+pat
+VPC - virtual private cloud 
+SUBNETS
+escalabilidade
