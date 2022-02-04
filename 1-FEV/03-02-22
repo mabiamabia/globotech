@@ -1,0 +1,19 @@
+****************-------- SEGURANÇA-----------****************
+
+Criptografia
+hash
+colisão de hash
+chave assimetrica
+chave simetrica
+SSL
+
+segurança de cloud:
+    controle de acesso - iam (controla autenticação)
+    vpc - firewall (controla entrada e saida do ambiente)
+    roles-papeis (limitar poderes dos usuarios?)
+
+**************************************************************
+o que eu sei - senha
+o que eu sou - biometria
+o que eu tenho - tokens
+----------------------------------------------------------------

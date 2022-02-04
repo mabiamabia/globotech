@@ -56,3 +56,8 @@ pat
 VPC - virtual private cloud 
 SUBNETS
 escalabilidade
+Load Balancing
+......................................
+
+tipos de armazenamento
+disaster recovery
