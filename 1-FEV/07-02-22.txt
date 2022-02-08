@@ -71,3 +71,13 @@ cpf_funcionario bigint,
 nome_funcionario char,
 salario_funcionario decimal
 )
+
+quando usar: SQL x NOSQL
+
+SQL:
+consistencia
+estrutura tabular
+necessidade de consistencia
+modelo consolidado
+
+NOSQL:
