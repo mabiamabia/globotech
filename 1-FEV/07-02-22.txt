@@ -1,0 +1,73 @@
+************-------BANCO DE DADOS-------**********
+SQL:
+    Strutered Query Language
+    Linguagem Padrão
+
+SGBDs:
+    Mysql
+    Postgress
+    MariaDb
+    Oracle
+
+MySQL:
+    database
+        schema
+            tabela
+                coluna
+Operações:
+    create
+    insert
+    update
+    delete
+    joins
+    select
+
+Relacionamentos:
+    id   
+    chave estrangeira
+
+SQL II:
+    Store Procedure
+    Triggers
+    Transactions
+    Begin
+    Commit
+    Rollback
+
+ACID:
+    Atomicidade;
+    Consistência;
+    Isolamento;
+    Durabilidade
+
+**************---------DOCKER----------**************
+instalação do DOCKER
+
+*---------------Montagem de Banco de Dados:-------------*
+
+Padaria
+    filial?
+
+Clientes
+    nome
+    data de cadastro?
+    cpf
+
+Funcionarios
+    nome
+    cpf
+    salario
+    cargo
+
+Produtos
+    nome
+    codigo_produto
+    descricao
+    preco
+    quantidade
+
+create table funcionario(
+cpf_funcionario bigint,
+nome_funcionario char,
+salario_funcionario decimal
+)
