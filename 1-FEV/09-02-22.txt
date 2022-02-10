@@ -1,0 +1,5 @@
+deafio globo:
+
+-criar um projeto funcional
+-subir no git
+-subir no docker
