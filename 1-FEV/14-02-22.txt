@@ -1,0 +1,13 @@
+Revisão web 3.0
+
+---------HTTP-----------
+O que é HTTP
+Ataques HTTP
+https
+contramedidadas/contraataques
+segurança e web
+
+-----------API---------------
+SOAP
+REST
+GraphQL
