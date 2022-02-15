@@ -7,7 +7,12 @@ https
 contramedidadas/contraataques
 segurança e web
 
------------API---------------
+-----------API's---------------
+GraphQL
 SOAP
 REST
-GraphQL
+    resourses
+    request verbs
+    request headers
+    request body
+    response bodyresponse status codes
