@@ -1,0 +1,13 @@
+-----------HTML E CSS-------------
+VERSÃO 1 = 1991-1995
+
+HTML5
+ARMAZENAMENTO:
+Local Storage e Session Storage
+svg 
+canvas 
+elementos multimidia
+web workers
+server-sent events - receber eventos de um servidor
+geolocalização - obter localização do usuário
+seletores
