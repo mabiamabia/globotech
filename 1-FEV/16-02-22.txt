@@ -1,2 +1,8 @@
 ----------Primeira aula de GO---------
 
+hello world
+variaveis
+arrays
+slices
+maps
+control
