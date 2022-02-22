@@ -1,0 +1,43 @@
+-------------JAVASCRIPT--------------
+VARIÁVEIS
+
+var (sobrescreve - ñ é mais usado)
+let firstName;
+const temperature = 28.4;
+const likeGames = true;
+var nome = "José"
+
+firstName = "José Claudio";
+console.log(firstName)
+console.log(nome, typeof nome)
+
+const person = {
+    name: 'Jose',
+    birthday: new Date(1991, 8, 24),
+    endereco: {
+        rua: 'Rua Tal',
+        complemento: 'Longe de tudo e perto de porto'
+    }
+}
+
+console.log(person)
+person.name = 'Zezinho'
+console.log(person.birthday.getDay())
+
+---------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
