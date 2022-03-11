@@ -1,0 +1,14 @@
+dry, kiss, yagn
+
+dry:
+não se repita, não se duplica
+
+kiss:
+mantenha isso simples e estupido
+
+yagni:
+Você precisa disso mesmo? agora?
+
+clean code
+tdd, teste unitario, testes de unidade
+jest (framework de testes)
