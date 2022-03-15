@@ -1,3 +1,16 @@
 Jest
+framework para testes
+
+-----------------------------
 nest
+framework para backend
+typeorm
+dto's
+
+------------------------
 typescript
+classes
+dtos
+herança
+
+----------------------
