@@ -1,0 +1,21 @@
+--------------Otimização web----------------
+
+-Caching =
+-Standing Wave Ratio (SWR) =
+-API Gateway = centralizador de api, ferramenta de gerenciamento de api 
+que fica entre o cliente e uma coleção de serviços de backend
+
+-----Escalabilidade-----
+
+-Vertical= Aumentando recursos computacionais da mesma maquina ex:
+Aumenta RAM, CPU, ETC
+
+-Horizontal = Aumenta número de maquinas que vão trabalhar naquele serviço
+
+-------------Performance X Escalabilidade-------------
+-kubernets
+-GraphQL = pode ser usado como api gateway, É uma forma inteligente de consumir 
+sua API. Requisitando só o necessário para ela, ele faz um select só de tudo 
+que vc precisa de uma só vez
+-
+-
