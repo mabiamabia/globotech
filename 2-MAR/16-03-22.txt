@@ -17,5 +17,10 @@ Aumenta RAM, CPU, ETC
 -GraphQL = pode ser usado como api gateway, É uma forma inteligente de consumir 
 sua API. Requisitando só o necessário para ela, ele faz um select só de tudo 
 que vc precisa de uma só vez
--
--
+
+-grpc
+-corba
+-soap
+-rest
+-microsserviços
+-monolitos

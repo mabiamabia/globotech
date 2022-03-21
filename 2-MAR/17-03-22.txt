@@ -1,0 +1,9 @@
+_-_-_-_--__-__Desafio_-_--_--_--_--_--_-_
+
+Como é o desafio:
+
+utilizando nestjs, typeorm, crie uma api
+
+a api deve conter:
+
+rota para cadastrar num banco de dados umas lis
