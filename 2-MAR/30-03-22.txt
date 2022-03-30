@@ -1,0 +1,9 @@
+CI -CD
+
+Em engenharia de software, CI/CD ou CICD pode se referir às práticas combinadas 
+de integração contínua e entrega contínua. CI/CD preenche as lacunas entre as atividades 
+e equipes de desenvolvimento e operação, 
+reforçando a automação na compilação, teste e implantação de aplicativos.
+
+--_-----_--------__---__-__-__-____-___-___-___-__
+
